@@ -1,0 +1,4 @@
+name: AutoTNT
+description: AutoTNT
+main: com.connorlinfoot.autotnt.Main
+version: 1.0
